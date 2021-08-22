@@ -1,4 +1,4 @@
-# malware analysis
+# Malware Analysis
 collection of online analysis links
 
 https://app.any.run/
