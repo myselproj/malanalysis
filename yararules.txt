@@ -1,0 +1,31 @@
+yara32.exe -r C:\Users\IEUser\Desktop\yara\malwaremz.yar C:\Users\IEUser\Desktop\yara\lab
+
+
+// yar file extension
+rule Malware : Certificates
+{
+    meta:
+        description = "Malware downloaded using certificate"
+    strings:
+        $url = "symcb.com" // url to download malware
+
+		$evasion1 = "IsDebuggerPresent" //malware evasion https://attack.mitre.org/techniques/T1124/
+		$evasion2 = "GetSystemTimeAsFileTime"
+		$evasion3 = "GetTickCount"
+		
+        $process1 = "GetStartupInfo"
+		$process2 = "GetCurrentThreadId"
+		$process3 = "GetCurrentProcessId"
+		
+		$s1 = "CryptAcquireContextA"
+		$s2 = "strcat"
+		$s3 = "strcpy"
+		$s4 = "wsprintf"
+		$s5 = "CreateFileMapping"
+		$s6 = "MapViewOfFile"
+		$s7 = "InterlockedExchange"
+		$s8 = "InterlockedCompareExchange"
+    condition:
+        $url and (1 of ($evasion*)) and (1 of ($process*)) and (any of ($s1,$s2,$s3,$s4,$s5,$s6,$s7,$s8))
+}
+
