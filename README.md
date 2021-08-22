@@ -13,3 +13,7 @@ https://www.joesandbox.com/
 </br>
 https://otx.alienvault.com/
 </br>
+
+Malware Analysis – Cheat Sheet
+</br>
+https://gist.github.com/404NetworkError/a81591849f5b6b5fe09f517efc189c1d
