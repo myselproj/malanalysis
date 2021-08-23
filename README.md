@@ -14,6 +14,8 @@ https://www.joesandbox.com/
 https://otx.alienvault.com/
 </br>
 https://www.joesecurity.org/
+</br>
+https://manalyzer.org/
 
 # Malware Analysis – Cheat Sheet
 https://gist.github.com/404NetworkError/a81591849f5b6b5fe09f517efc189c1d
