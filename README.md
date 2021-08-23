@@ -21,7 +21,9 @@ https://manalyzer.org/
 https://gist.github.com/404NetworkError/a81591849f5b6b5fe09f517efc189c1d
 </br>
 https://hackernewsdog.com/conflicker-malware-analysis-practical-security-threat/
-</br>
+
+# Common Weakness Enumeration
+https://cwe.mitre.org/index.html
 
 # Yara Rules
 https://www.varonis.com/blog/yara-rules/
