@@ -11,9 +11,15 @@ https://www.virustotal.com/gui/
 </br>
 https://www.joesandbox.com/
 </br>
+https://www.joesecurity.org/
+</br>
 https://otx.alienvault.com/
 </br>
-https://www.joesecurity.org/
+https://metadefender.opswat.com/
+</br>
+https://vulnerabilitytest.quixxi.com/
+</br>
+https://www.immuniweb.com/mobile/
 </br>
 https://manalyzer.org/
 </br>
