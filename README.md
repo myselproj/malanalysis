@@ -26,6 +26,10 @@ https://manalyzer.org/
 https://www.capesandbox.com/
 </br>
 https://malware.me/
+</br>
+https://maltiverse.com
+</br>
+https://www.malwares.com/
 
 # Malware Analysis – Cheat Sheet
 https://gist.github.com/404NetworkError/a81591849f5b6b5fe09f517efc189c1d
