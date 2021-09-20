@@ -30,6 +30,12 @@ https://malware.me/
 https://maltiverse.com
 </br>
 https://www.malwares.com/
+</br>
+https://labs.inquest.net/
+</br>
+https://app.docguard.io/
+</br>
+https://box.zero.camp/board/dashboard/
 
 # Malware Analysis – Cheat Sheet
 https://gist.github.com/404NetworkError/a81591849f5b6b5fe09f517efc189c1d
