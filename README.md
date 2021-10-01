@@ -44,6 +44,9 @@ https://hackernewsdog.com/conflicker-malware-analysis-practical-security-threat/
 </br>
 https://project-awesome.org/rshipp/awesome-malware-analysis
 
+# Malware Analysis – Tools List
+https://malwareanalysis.co/resources/tools/windows/
+
 # Common Weakness Enumeration
 https://cwe.mitre.org/index.html
 
