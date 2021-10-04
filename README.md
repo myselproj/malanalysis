@@ -54,3 +54,6 @@ https://cwe.mitre.org/index.html
 https://www.varonis.com/blog/yara-rules/
 </br>
 https://yara.readthedocs.io/en/stable/index.html
+
+# SQL Injection
+https://www.binarytides.com/sqlmap-hacking-tutorial/
